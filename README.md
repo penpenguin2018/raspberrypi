@@ -8,7 +8,7 @@
 
 이중에서 fcitx를 쓰자!
 
-<pre><code> sudo apt-get update
+<pre><code>sudo apt-get update
 sudo apt-get upgrade
 
 sudo apt-get install fcitx-hangul
