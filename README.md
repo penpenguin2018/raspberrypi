@@ -19,3 +19,7 @@ im-config -n fcitx
 im-config -n fcitx  시작될때 fcitx 실행
 
 fcitx 설정에 들어가서 한/영 키 설정까지 해주면 끝
+
+
+
+# QT
