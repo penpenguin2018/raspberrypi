@@ -25,9 +25,12 @@ fcitx 설정에 들어가서 한/영 키 설정까지 해주면 끝
 로지텍은 우분투를 지원하지 않는다. 그래서 유니파잉 수신기를 사용할 수 없다.
 <pre><code>sudo apt install solaar</code></pre>
 solaar를 이용하면 로지텍 디바이스를 우분투에서도 사용할 수 있다.
+k580 키보드는 ESC+O, ESC+O, ESC+B 를 누르면 초기화 된다.
 
 ## wifi config
-<pre><code>iw pwy</code></pre>
+<pre><code>iw phy</code></pre>
 사용가능한 채널 전부 보여줌
+wpa_supplicant.conf2 파일에서 2를 지우고
+/etc/wpa_supplicant 폴더로 복사할 것
 
 ## QT
