@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo apt-get install fcitx-hangul
-sudo apt-get install fonts-unfonts-core
+sudo apt-get install fcitx-hangul -y
+sudo apt-get install fonts-unfonts-core -y
 im-config -n fcitx
 
