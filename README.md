@@ -37,6 +37,7 @@ wpa_supplicant.conf2 파일에서 2를 지우고
 설정 파일을 편집할 떄에는 먼저
 <pre><code>sudo /etc/init.d/transmission-daemon stop</code></pre>
 항상 정지한 뒤에 start 할 것
-
+https://geeksvoyage.com/raspberry%20pi/transmission-for-pi/
+참고하기
 
 ## QT
