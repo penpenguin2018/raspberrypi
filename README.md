@@ -33,4 +33,10 @@ k580 키보드는 ESC+O, ESC+O, ESC+B 를 누르면 초기화 된다.
 wpa_supplicant.conf2 파일에서 2를 지우고
 /etc/wpa_supplicant 폴더로 복사할 것
 
+## transmission-daemon
+설정 파일을 편집할 떄에는 먼저
+<pre><code>sudo /etc/init.d/transmission-daemon stop</code></pre>
+항상 정지한 뒤에 start 할 것
+
+
 ## QT
