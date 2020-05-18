@@ -40,4 +40,11 @@ wpa_supplicant.conf2 파일에서 2를 지우고
 https://geeksvoyage.com/raspberry%20pi/transmission-for-pi/
 참고하기
 
+## 가상키보드
+keyboard.sh
+
+## 화면 보호기
+xscreensaver.sh
+
+
 ## QT
